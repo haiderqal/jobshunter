@@ -17,10 +17,6 @@ const App = () => {
         24 hours right to your email
       </h2>
     </section>
-    <section className={"uto"}>
-      <button className={"sub-but"}>Suscribe Now</button>
-      <button className={"{job-but"}>Jobs Lists &#8594;</button>
-    </section>
 
     </body> </>
  )
