@@ -1,0 +1,1 @@
+i am a new person learning everything again, i barely have memory on how to code but i want to learn. this is a new repo on how i can build a website that basically scrapes jobs listings from other website and adds them to my own. if its possible i want to add features where such as it scrapes it every day and has new listings and other nice features.
