@@ -5,6 +5,7 @@ function App() {
     <div>
       <h1>JobsHunter</h1>
       <JobCard />
+            <JobCard />
     </div>
   );
 }
