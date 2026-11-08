@@ -1,8 +1,8 @@
-function JobCard(props: { title: string }) {
+function JobCard(props: { title: string; company: string }) {
   return (
     <div>
       <h2>{props.title}</h2>
-      <p>Acme Ltd</p>
+      <p>{props.company}</p>
       <p>Location: Queens, NY</p>
       <p>Salary: 94k</p>
       <p>Work type: Remote</p>
