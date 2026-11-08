@@ -4,8 +4,8 @@ function App() {
   return (
     <div>
       <h1>JobsHunter</h1>
-      <JobCard />
-            <JobCard />
+      <JobCard title="Software Engineer" />
+      <JobCard title="Web Developer" />
     </div>
   );
 }
